@@ -14,7 +14,7 @@ import org.jetbrains.annotations.Nullable;
 public final class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main_linear); // shows the layout
+        setContentView(R.layout.activity_main_grid); // shows the layout
 
         Button clickHereButton = findViewById(R.id.button2); // created a variable that holds button
         Switch switchButton = findViewById(R.id.switch1); // created a variable for switch button
