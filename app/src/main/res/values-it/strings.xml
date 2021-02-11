@@ -3,4 +3,9 @@
     <string name= "app_name">Android Labs</string>
     <string name= "hellomessage">Ciao</string>
     <string name="buttontext">Io sono un bottone</string>
+    <string name="hint">Digitare quie</string>
+    <string name="check_this_out">Controllalo!</string>
+    <string name="click_here">Clicca qui</string>
+    <string name="switch_name">Accendi / spegni</string>
+    <string name="look_at_my_gui">Guarda il mio vischio:</string>
 </resources>

@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name= "app_name">Android Labs</string>
+    <string name= "app_name">Laboratoires Android</string>
     <string name= "hellomessage">Bonjour!</string>
     <string name="buttontext">Je suis un bouton</string>
+    <string name="look_at_my_gui">Regardez mon GUI:</string>
+    <string name="hint">Écrivez ici</string>
+    <string name="click_here">Cliquez ici</string>
+    <string name="check_this_out">Vérifie ça!</string>
+    <string name="switch_name">Allumer / éteindre</string>
 </resources>
